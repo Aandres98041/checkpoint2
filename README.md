@@ -1,5 +1,5 @@
 # checkpoint2
-Andres Vargas
+Andres Vargas Simbaqueva
 Andrea de Oña
 Cesar Reyes
 Alan Oliva
